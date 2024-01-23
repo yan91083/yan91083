@@ -1,0 +1,100 @@
+2023-11-17 11:59:57 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: length = 2665
+2023-11-17 12:02:03 : Skipped 2665 rows, 0 rows with predictions, 0 rows with errors
+2023-11-17 12:02:03 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: end!
+
+2023-11-17 12:02:03 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_rg1_bm25.jsonl: length = 2665
+2023-11-17 12:04:51 : Skipped 2665 rows, 0 rows with predictions, 0 rows with errors
+2023-11-17 12:04:51 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_rg1_bm25.jsonl: end!
+
+2023-11-17 12:04:51 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_oracle_bm25.jsonl: length = 2665
+2023-11-17 12:07:05 : Skipped 2665 rows, 0 rows with predictions, 0 rows with errors
+2023-11-17 12:07:06 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_oracle_bm25.jsonl: end!
+
+2023-11-17 12:12:50 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: length = 2665
+2023-11-17 12:14:48 : Skipped 2665 rows, 0 rows with predictions, 0 rows with errors
+2023-11-17 12:14:48 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: end!
+
+2023-11-17 12:14:48 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_rg1_bm25.jsonl: length = 2665
+2023-11-17 12:18:40 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: length = 2665
+2023-11-17 12:20:24 : Skipped 2665 rows, 0 rows with predictions, 0 rows with errors
+2023-11-17 12:20:24 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: end!
+
+2023-11-17 12:20:24 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_rg1_bm25.jsonl: length = 2665
+2023-11-17 12:22:00 : Skipped 2665 rows, 0 rows with predictions, 0 rows with errors
+2023-11-17 12:22:01 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_rg1_bm25.jsonl: end!
+
+2023-11-17 12:22:01 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_oracle_bm25.jsonl: length = 2665
+2023-11-17 12:23:50 : Skipped 2665 rows, 0 rows with predictions, 0 rows with errors
+2023-11-17 12:23:50 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_oracle_bm25.jsonl: end!
+
+2023-11-17 12:38:38 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: length = 2665
+2023-11-17 12:45:12 : Skipped 2665 rows, 0 rows with predictions, 0 rows with errors
+2023-11-17 12:45:12 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: end!
+
+2023-11-17 12:45:12 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_rg1_bm25.jsonl: length = 2665
+2023-11-17 12:49:12 : Skipped 2665 rows, 0 rows with predictions, 0 rows with errors
+2023-11-17 12:49:12 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_rg1_bm25.jsonl: end!
+
+2023-11-17 12:49:12 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_oracle_bm25.jsonl: length = 2665
+2023-11-17 12:56:34 : Skipped 2665 rows, 0 rows with predictions, 0 rows with errors
+2023-11-17 12:56:34 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_oracle_bm25.jsonl: end!
+
+2023-11-17 13:59:48 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: length = 2665
+2023-11-17 14:06:06 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: length = 2665
+2023-11-17 14:06:21 : Skipped 0 rows, 1 rows with predictions, 0 rows with errors
+2023-11-17 14:06:21 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: end!
+
+2023-11-17 14:06:21 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_rg1_bm25.jsonl: length = 2665
+2023-11-17 14:06:21 : Skipped 0 rows, 0 rows with predictions, 0 rows with errors
+2023-11-17 14:06:22 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_rg1_bm25.jsonl: end!
+
+2023-11-17 14:06:22 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_oracle_bm25.jsonl: length = 2665
+2023-11-17 14:06:22 : Skipped 0 rows, 0 rows with predictions, 0 rows with errors
+2023-11-17 14:06:22 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_oracle_bm25.jsonl: end!
+
+2023-11-17 14:13:16 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: length = 2665
+2023-11-17 14:13:30 : Skipped 2664 rows, 1 rows with predictions, 0 rows with errors
+2023-11-17 14:13:30 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: end!
+
+2023-11-17 14:13:31 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_rg1_bm25.jsonl: length = 2665
+2023-11-17 14:13:31 : Skipped 2665 rows, 0 rows with predictions, 0 rows with errors
+2023-11-17 14:13:31 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_rg1_bm25.jsonl: end!
+
+2023-11-17 14:13:31 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_oracle_bm25.jsonl: length = 2665
+2023-11-17 14:13:31 : Skipped 2665 rows, 0 rows with predictions, 0 rows with errors
+2023-11-17 14:13:31 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_oracle_bm25.jsonl: end!
+
+2023-11-17 15:43:43 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: length = 2665
+2023-11-17 15:44:16 : Skipped 2664 rows, 1 rows with predictions, 0 rows with errors
+2023-11-17 15:47:13 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: length = 2665
+2023-11-17 15:47:40 : Skipped 2664 rows, 1 rows with predictions, 0 rows with errors
+2023-11-17 15:47:41 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: end!
+
+2023-11-17 15:47:41 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_rg1_bm25.jsonl: length = 2665
+2023-11-17 15:47:41 : Skipped 2665 rows, 0 rows with predictions, 0 rows with errors
+2023-11-17 15:47:41 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_rg1_bm25.jsonl: end!
+
+2023-11-17 15:47:41 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_oracle_bm25.jsonl: length = 2665
+2023-11-17 15:47:42 : Skipped 2664 rows, 1 rows with predictions, 0 rows with errors
+2023-11-17 15:47:43 : model: TabbyML/StarCoder-3B; language: python; file: line_completion_oracle_bm25.jsonl: end!
+
+2023-11-17 17:01:34 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: length = 2665
+2023-11-17 17:02:06 : Skipped 2663 rows, 2 rows with predictions, 0 rows with errors
+2023-11-17 17:02:06 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: end!
+
+2023-11-17 17:04:12 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: length = 2665
+2023-11-17 17:04:12 : Skipped 2665 rows, 0 rows with predictions, 0 rows with errors
+2023-11-17 17:04:12 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: end!
+
+2023-11-17 17:04:13 : model: TabbyML/StarCoder-3B; language: python; file:  line_completion_rg1_bm25.jsonl: length = 2665
+2023-11-17 17:04:35 : Skipped 2663 rows, 2 rows with predictions, 0 rows with errors
+2023-11-17 17:04:35 : model: TabbyML/StarCoder-3B; language: python; file:  line_completion_rg1_bm25.jsonl: end!
+
+2023-11-24 23:14:47 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: length = 2665
+2023-11-24 23:14:47 : Skipped 2665 rows, 0 rows with predictions, 0 rows with errors
+2023-11-24 23:14:48 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: end!
+
+2023-11-28 10:05:33 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: length = 2665
+2023-11-28 10:05:33 : Skipped 2665 rows, 0 rows with predictions, 0 rows with errors
+2023-11-28 10:05:34 : model: TabbyML/StarCoder-3B; language: python; file: line_completion.jsonl: end!
+
